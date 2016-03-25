@@ -1,0 +1,14 @@
+{
+  "name": "Lanoda-Web",
+  "description": "The Lanoda web app.",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
